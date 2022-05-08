@@ -19,6 +19,7 @@
   background-position: center center;
   margin-right: 20px;
   margin-left: 20px;
+  height: 100vh;
 
 }
 
@@ -74,10 +75,26 @@
     display: flex;
     justify-content: space-between;
   }
+  .cutHusle{
+    padding-right: 600px;
+    padding-top: 60px;
+  }
   .cutHusle>div>img{
     float: left;
   }
   .cutHusle>p{
     width: 280px;
     float: right;
+    align-content: center;
+  }
+  .cutHusle>button{
+    background-color: black;
+    color: #FAFF00;
+    border-top-right-radius: 8px;
+    padding: 5px;
+  }
+  .container{
+    display: grid;
+    justify-content: space-between;
+    
   }
