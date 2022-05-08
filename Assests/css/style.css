@@ -1,3 +1,83 @@
-body{
-  background-color: beige;
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  overflow: auto;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: 'Actor', sans-serif;
+  font-family: 'Adamina', serif;
+  font-family: 'Poppins', sans-serif;
 }
+
+/*Navigation decoration*/
+.sec1 {
+  background-image: url("../Images/moving\ 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  margin-right: 20px;
+  margin-left: 20px;
+
+}
+
+.sec1>nav> ul {
+  float: right;
+  margin-right: 30px;
+  margin-top: 30px;
+  }
+
+.sec1>nav>ul> li{
+   display: inline-block;
+   line-height: 80px;
+   margin: 0 5px;
+  }
+
+.sec1>nav>ul>li>a{
+    color: white;
+    font-size: 18px;
+  }  
+  .sec1>nav>ul>li>a>#but1{
+    background-color:#FFAC12;
+    color: black;
+    font-size: 15px;
+    padding: 5px 5px;
+
+  }
+  .sec1>nav>ul>li>a>#but2{
+    background-color:black;
+    color: #FAFF00;
+    font-size: 15px;
+    padding: 5px 5px;
+  }
+  /*content*/
+  .content>#motto {
+    color: #FAFF00;
+    font-size: 30px;
+    width: 370px;
+    margin-left: 70px;
+    margin-bottom: 35px;
+  }
+  .content>.para2 {
+    margin-left: 70px;
+    font-size: 22px;
+    width: 350px;
+    margin-bottom: 260px;
+    color: grey;
+  }
+  .sec2 {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .cutHusle>div>img{
+    float: left;
+  }
+  .cutHusle>p{
+    width: 280px;
+    float: right;
+  }
