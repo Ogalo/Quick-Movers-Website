@@ -1,4 +1,4 @@
-# Moringa School Landing Page
+# Quick Movers Website
 #### This is the Quick Movers website in HTML and CSS
 #### By Harrison Omondi, a student at Moringa School
 ## Description
