@@ -66,6 +66,13 @@
     font-family: "Poppins", "Actor", "Adamina";
 }
 
+h2{
+  font-family: "Poppins", "Actor", "Adamina";
+  font-weight: 400;
+  font-size: 20px;
+
+}
+
 .content > .para2 {
     margin-left: 70px;
     font-size: 22px;
