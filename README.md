@@ -1,5 +1,6 @@
 # Quick Movers Website
-#### This is the Quick Movers in HTML and CSS
+#### This is the Quick Movers in HTML and CSS 
+
 #### By Harrison Omondi, a student at Moringa School
 ## Description
 This is a website that is the same as the one given for reference. It is fully coded in HTML and CSS. It is an attractive and appealing one.
